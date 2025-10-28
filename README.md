@@ -15,5 +15,6 @@ You can also find me at [BiliBili](https://space.bilibili.com/674938124), [Zhihu
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuckySJTU/LuckySJTU/output/github-contribution-grid-snake.svg">
 </picture>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lavishly+Yours&pause=100&color=FF6900&center=true&vCenter=true&multiline=true&width=435&height=81&lines=%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%EF%BC%8C%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%BA%8B%E6%83%85%E5%8D%B3%E5%B0%86%E5%8F%91%E7%94%9F;Always+believe+that+something+wonderful+is+about+to+happen." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&size=22&pause=1000&color=FF6900&center=true&vCenter=true&width=800&height=75&lines=Always+believe+that+something+wonderful+is+about+to+happen." alt="Typing SVG" /></a>
+
 </div>
