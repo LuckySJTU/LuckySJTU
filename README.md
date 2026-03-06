@@ -14,8 +14,9 @@ You can also find me at [Google Scholar](https://scholar.google.com/citations?us
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuckySJTU/LuckySJTU/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="game.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuckySJTU/LuckySJTU/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuckySJTU/LuckySJTU/output/github-contribution-grid-snake.svg">
+  <img alt="grid snake animation and shooter game" src="https://raw.githubusercontent.com/LuckySJTU/LuckySJTU/output/github-contribution-grid-snake.svg">
 </picture>
+<!-- Dark grid snake: https://raw.githubusercontent.com/LuckySJTU/LuckySJTU/output/github-contribution-grid-snake-dark.svg -->
 </div>
